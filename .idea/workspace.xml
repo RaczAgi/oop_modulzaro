@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ccbd0b2-8ced-4d4c-a403-8b52c86ecc41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_modulzaro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/NoAccountNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/NoAccountNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/NoEnoughMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/NoMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/NoValidAccountNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/person/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/person/ImpossibleFriendException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/NoSuchAnAnimalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Oviparous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Viviparous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoo/Zoo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Sv4mRYu1r3hbmU5Sg9RSRdJjY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Ági/IdeaProjects/family",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ccbd0b2-8ced-4d4c-a403-8b52c86ecc41" name="Changes" comment="" />
+      <created>1690013887481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690013887481</updated>
+    </task>
+    <servers />
+  </component>
+</project>
